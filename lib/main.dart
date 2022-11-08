@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_copa/screens/homepage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -6,13 +7,11 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
       theme: ThemeData(
+<<<<<<< HEAD
         primarySwatch: Colors.blue,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
@@ -46,7 +45,11 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children:[  ],
         ),
+=======
+        primarySwatch: Colors.lightBlue,
+>>>>>>> 668b27ff6732735b48d23c7b914a46810b9ea7d3
       ),
+      home: const MyHomePage(),
     );
   }
 }
