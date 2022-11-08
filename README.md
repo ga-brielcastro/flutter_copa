@@ -1,16 +1,7 @@
 # flutter_copa
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Designs
+[Result](https://dribbble.com/shots/19239201-Live-score-update-app)
+[Team & Player](https://dribbble.com/shots/15967161-Football-App-Concept/attachments/7802962?mode=media)
